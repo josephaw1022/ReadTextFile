@@ -18,3 +18,5 @@ I am using this to copy and paste parts of my online textbook I have to read and
 ---
 	python3 run.py
 ---
+
+And then you're good to go 😃
